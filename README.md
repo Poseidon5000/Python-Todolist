@@ -1,4 +1,4 @@
-A TODOLIST helpS you stay organized and boost productivity. With this todolist you can create, read, update, and delete tasks seamlessly. The tasks are stored and retrieved from text files, ensuring your data remains accessible and secure.
+A TODOLIST helps you stay organized and boost productivity. With this todolist you can create, read, update, and delete tasks seamlessly. The tasks are stored and retrieved from text files, ensuring your data remains accessible and secure.
 
 Features:
 
